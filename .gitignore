@@ -1,2 +1,5 @@
 ProyectoMonjas/Temp/
 ProyectoMonjas/Library/
+*.csproj
+ProyectoMonjas/.vs/
+ProyectoMonjas/obj/
